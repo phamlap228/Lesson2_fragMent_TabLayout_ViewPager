@@ -2,4 +2,7 @@
     <string name="app_name">Lesson2_fragMent_TabLayout_ViewPager</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="zed">Zed</string>
+    <string name="Yasuo">Yasuo</string>
+    <string name="riven">Riven</string>
 </resources>
